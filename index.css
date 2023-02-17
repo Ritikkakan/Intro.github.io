@@ -1,0 +1,122 @@
+#body{
+    background-image:url("1.jpg") ;
+}
+#h1{
+ display: inline-block;
+ position: relative;
+ 
+}
+#two_div{
+    padding: 3% 2%;
+    background-color: transparent;
+}
+div#about_div,div#form_div{
+    display: inline-block;
+
+}
+#about_div{
+    margin-top: 0%;
+    vertical-align: top;
+    padding: 1%;
+  width:72%;
+  background-color: aliceblue;
+}
+#form_div{
+    color: aliceblue;
+width: 24%;
+ background-image: url("3.jpg");
+ border-top-right-radius: 25px;
+ border-bottom-left-radius: 25px;
+}
+#header_section{
+    text-align: right;
+}
+#container{
+    background-color: beige;
+    border-radius: 15px;
+}
+#searchbar{
+    position: relative !important;
+}
+#button{
+    color: white;
+    background-image: url("2.jpeg");
+    border-radius: 25%;
+    text-align: center;
+}
+#intro{
+     text-align: center;
+     background-image: url("3.jpg");
+     border-radius: 15px;
+}
+#about_me{
+    background-color: rgb(253, 245, 230);
+    text-align: center;
+}
+#p1{
+    color: antiquewhite;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#image{
+    width:200px;
+    height:200px;
+    border-radius: 100px;
+
+    
+}
+#form{
+  text-align: center;
+
+}
+#table{
+    background-color: transparent;
+    height: auto;
+    display: inline-block;
+    width:100%;
+    
+}
+section#table1,section#table2{
+    display: inline-block;
+}
+#table1{
+    
+    width: 46%;
+    background-color: lightslategrey;
+    margin: 1px;
+    padding: 1%;
+    border-color: black;
+}
+#table2{
+    border: 2ch;
+    width: 46%;
+    background-color: lightslategrey;
+    margin: 2px;
+    padding: 1%;
+    align-content: center;
+    border-color: black;
+}
+#tab1sec{
+    border: 1px solid black;
+    width: 100%;
+}
+#tr,th,td{
+    border: 1px solid black;
+}
+#tab2sec{
+    width: 100%;
+    border: 1px solid black;
+}
+
+/*#fieldset{
+    margin-left: 46.5em;
+    margin-right: 50em;
+    grid-auto-columns: auto;
+    background-color: rgb(179, 134, 173);
+    text-align: center;
+}*/
+#footer{
+    height: 80px;
+    background-color: rgb(95, 91, 91);
+}
